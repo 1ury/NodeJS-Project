@@ -1,0 +1,2 @@
+node_modules
+# Nunca enviar node_modules pois é muito pesado. executar o npm intall ja cria a pasta
